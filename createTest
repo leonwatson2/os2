@@ -1,0 +1,6 @@
+#bin/bash
+rm tests/*
+python pTestMaker.py 10 > tests/1test.pt
+python pTestMaker.py 20 > tests/2test.pt
+python pTestMaker.py 30 > tests/3test.pt
+python pTestMaker.py 40 > tests/4test.pt
