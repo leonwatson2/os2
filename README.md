@@ -26,4 +26,4 @@ Where the information for the processes are in the following order
 
 ``` name arrivalTime runTime priority ```
 
-seprated by a space.
+seperated by a space.
